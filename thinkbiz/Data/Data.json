@@ -1,0 +1,126 @@
+[
+  {
+      "category-name": "Jeans",
+      "category-id": "1",
+      "data":[
+            {
+                "subcategory-id":"1",
+                "subcategory-name": "Levi's",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"2",
+                "subcategory-name": "Lee",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"3",
+                "subcategory-name": "Pepe Jeans",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"4",
+                "subcategory-name": "Diesel",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"5",
+                "subcategory-name": "SpyKar",
+                "url":"https://picsum.photos/200/300"
+            }
+          ]
+  },
+  {
+      "category-name": "Shirt",
+      "category-id": "2",
+      "data":[
+            {
+                "subcategory-id":"1",
+                "subcategory-name": "Adidas",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"2",
+                "subcategory-name": "Ajio",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"3",
+                "subcategory-name": "HRX",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"4",
+                "subcategory-name": "Gucci",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"5",
+                "subcategory-name": "Blackberry",
+                "url":"https://picsum.photos/200/300"
+            }
+          ]
+  },
+  {
+      "category-name": "Shoes",
+      "category-id": "3",
+      "data":[
+            {
+                "subcategory-id":"1",
+                "subcategory-name": "Adidas",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"2",
+                "subcategory-name": "Nike",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"3",
+                "subcategory-name": "Puma",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"4",
+                "subcategory-name": "Reebok",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"5",
+                "subcategory-name": "Bata",
+                "url":"https://picsum.photos/200/300"
+            }
+          ]
+  },
+  {
+      "category-name": "Beauty",
+      "category-id": "4",
+      "data":[
+            {
+                "subcategory-id":"1",
+                "subcategory-name": "Avon",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"2",
+                "subcategory-name": "Revlon",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"3",
+                "subcategory-name": "L'Oréal",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"4",
+                "subcategory-name": "Estée Lauder",
+                "url":"https://picsum.photos/200/300"
+            },
+             {
+                "subcategory-id":"5",
+                "subcategory-name": "MAC Cosmetics",
+                "url":"https://picsum.photos/200/300"
+            }
+          ]
+  }
+]
